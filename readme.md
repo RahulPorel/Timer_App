@@ -7,7 +7,7 @@
 
 # Live Demo 👁️
 
-[https://routine-control.netlify.app/](https://rahulporel.github.io/Timer_App/)
+https://rahulporel.github.io/Timer_App/
 
 # Snapshot of Timer App
 
